@@ -1,0 +1,29 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    border: 2px dashed black ;
+    background-color:wheat;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+}
+.icon img{
+    margin: 5px;
+    border-radius: 50%;
+}
+.photo
+{  
+   margin-right: 80px;
+   margin-top: none;
+
+
+}
+
